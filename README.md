@@ -30,10 +30,10 @@
 
 ## Our activity
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=freeBoyAtLife&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyperwebsiteGit&show_icons=true&theme=dark)
 
 ---
 
 ## Our project languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freeBoyAtLife&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyperwebsiteGit&layout=compact)
