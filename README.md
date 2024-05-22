@@ -25,13 +25,3 @@
 - ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ---
-
-## Our activity
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyperwebsiteGit&show_icons=true&theme=dark)
-
----
-
-## Our project languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyperwebsiteGit&layout=compact)
